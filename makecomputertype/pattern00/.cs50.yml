@@ -1,0 +1,8 @@
+check50: 
+  files: &check50_files
+    - !exclude "*"
+    - !require pattern00.c
+    - !require telugu.h
+
+submit50:
+  files: *check50_files
