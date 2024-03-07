@@ -4,8 +4,14 @@ import check50
 def exists():
     """pattern01.txt exists"""
     check50.exists("pattern01.txt")
+    check50.include("expected_pattern.txt")
 
 @check50.check(exists)
-def pattern01():
+def test():
     """pattern01.txt contains \"expected pattern\""""
-    check50.run("cat pattern01.txt").stdout("42\n\n8\n\n88\n88\n\n888\n888\n888\n\n8888\n8888\n8888\n8888\n\n42\n").exit()
+    correct = open("expected_pattern.txt").read()
+    output = open("pattern01.txt").read()
+    if output == correct:
+        return
+    help_msg = "Make sure you are not giving extra spaces or lines."
+    raise check50.Mismatch(correct, output, help=help_msg)
