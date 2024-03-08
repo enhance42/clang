@@ -2,7 +2,7 @@
 It is very important to read again the instructions everytime something is not working as expected.  
 
 ## #1: Files
-This `pattern00` folder contains the following files
+This `cpattern00` folder contains the following files
 ```
 instructions.md
 pattern00.c
