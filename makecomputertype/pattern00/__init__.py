@@ -17,8 +17,7 @@ def compiles():
 def test():
     """check pattern00 printing \"expected pattern\""""
     correct = open("expected_output.txt").read()
-    output = check50.run("./pattern00")
+    output = check50.run("./pattern00").stdout()
     if output == correct:
         return
-    help_msg = "Make sure you are not giving extra spaces or lines."
-    raise check50.Mismatch(correct, output, help=help_msg)
+    raise check50.Mismatch(correct, output, help=None)
