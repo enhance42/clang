@@ -2,13 +2,13 @@
 
 # Define your aliases
 new_aliases=(
-	"ecompile='bash ecompile.sh'"
-	"edebug='bash edebug.sh'"
-	"ehelp='bash ehelp.sh'"
-	"erun='bash erun.sh'"
-	"estyle='bash estyle.sh'"
-	"esubmit='bash esubmit.sh'"
-	"etest='bash etest.sh'"
+	"alias ecompile='bash ecompile.sh'"
+	"alias edebug='bash edebug.sh'"
+	"alias ehelp='bash ehelp.sh'"
+	"alias erun='bash erun.sh'"
+	"alias estyle='bash estyle.sh'"
+	"alias esubmit='bash esubmit.sh'"
+	"alias echeck='bash echeck.sh'"
 )
 
 # Add aliases to .bashrc
