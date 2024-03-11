@@ -2,13 +2,13 @@
 
 # Define your aliases
 new_aliases=(
-	"alias ecompile='bash ./scripts/ecompile.sh'"
-	"alias edebug='bash ./scripts/edebug.sh'"
-	"alias ehelp='bash ./scripts/ehelp.sh'"
-	"alias erun='bash ./scripts/erun.sh'"
-	"alias estyle='bash ./scripts/estyle.sh'"
-	"alias esubmit='bash ./scripts/esubmit.sh'"
-	"alias echeck='bash ./scripts/echeck.sh'"
+	"alias ecompile='bash .scripts/ecompile.sh'"
+	"alias edebug='bash .scripts/edebug.sh'"
+	"alias ehelp='bash .scripts/ehelp.sh'"
+	"alias erun='bash .scripts/erun.sh'"
+	"alias estyle='bash .scripts/estyle.sh'"
+	"alias esubmit='bash .scripts/esubmit.sh'"
+	"alias echeck='bash .scripts/echeck.sh'"
 )
 
 # clear the contents of .bashrc
