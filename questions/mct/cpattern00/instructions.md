@@ -89,6 +89,6 @@ check50 enhance42/clang/2024/makecomputertype/pattern00
 ## #9: Submit your work
 Once the tests pass, run the following `submit50` command in the Terminal `to submit`.
 ```bash
-submit50 enhance42/clang/2024/makecomputertype/pattern01
+submit50 enhance42/clang/2024/makecomputertype/pattern00
 ```
 You can submit any number of times, the latest submission will be considered for evaluation and awarding marks.
