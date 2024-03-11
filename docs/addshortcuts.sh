@@ -2,23 +2,20 @@
 
 # Define your aliases
 new_aliases=(
-	"alias ecompile='bash ecompile.sh'"
-	"alias edebug='bash edebug.sh'"
-	"alias ehelp='bash ehelp.sh'"
-	"alias erun='bash erun.sh'"
-	"alias estyle='bash estyle.sh'"
-	"alias esubmit='bash esubmit.sh'"
-	"alias echeck='bash echeck.sh'"
+	"alias ecompile='bash ./scripts/ecompile.sh'"
+	"alias edebug='bash ./scripts/edebug.sh'"
+	"alias ehelp='bash ./scripts/ehelp.sh'"
+	"alias erun='bash ./scripts/erun.sh'"
+	"alias estyle='bash ./scripts/estyle.sh'"
+	"alias esubmit='bash ./scripts/esubmit.sh'"
+	"alias echeck='bash ./scripts/echeck.sh'"
 )
 
+# clear the contents of .bashrc
+echo > ~/.bashrc
 # Add aliases to .bashrc
-touch ~/.bashrc
 for alias_cmd in "${new_aliases[@]}"; do
-    if ! grep -qF "$alias_cmd" ~/.bashrc; then
-        echo "$alias_cmd" >> ~/.bashrc
-    else
-        echo "Alias '$alias_cmd' already exists in ~/.bashrc, skipping."
-    fi
+    echo "$alias_cmd" >> ~/.bashrc
 done
 
 # Source the updated .bashrc
