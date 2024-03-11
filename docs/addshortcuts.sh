@@ -12,6 +12,7 @@ new_aliases=(
 )
 
 # Add aliases to .bashrc
+touch ~/.bashrc
 for alias_cmd in "${new_aliases[@]}"; do
     if ! grep -qF "$alias_cmd" ~/.bashrc; then
         echo "$alias_cmd" >> ~/.bashrc
