@@ -1,34 +1,51 @@
-#!/bin/bash
+# List of Shortcuts to use in cs50.dev
+# for Programming using C by Enhance42 in March 2024.
 
-# Define your aliases
-new_aliases=(
-	"alias ecompile='bash .scripts/ecompile.sh'"
-	"alias edebug='bash .scripts/edebug.sh'"
-	"alias ehelp='bash .scripts/ehelp.sh'"
-	"alias erun='bash .scripts/erun.sh'"
-	"alias estyle='bash .scripts/estyle.sh'"
-	"alias esubmit='bash .scripts/esubmit.sh'"
-	"alias echeck='bash .scripts/echeck.sh'"
-	"alias esafe='bash .scripts/esafe.sh'"
-)
-
-# clear the contents of .bashrc file and
-# Add function to download assignments
-echo '# shortcut to download assignments
+# to download files for a task
 ewget() {
-    echo "wget https://enhance42.com/clang/$1"
-    wget "https://enhance42.com/clang/$1"
-}' > ~/.bashrc
+    echo "wget https://enhance42.com/clang/2024/$1"
+    wget "https://enhance42.com/clang/2024/$1"
+}
 
-# Add aliases to .bashrc
-echo '# List of shortcuts to use in cs50.dev' >> ~/.bashrc
-for alias_cmd in "${new_aliases[@]}"; do
-    echo "$alias_cmd" >> ~/.bashrc
-done
+# to compile and build
+emake() {
+    echo "make $(cat .keys/taskname)"
+    make $(cat .keys/taskname)
+}
 
-# Source the updated .bashrc
-source ~/.bashrc
+# to run
+erun() {
+    echo "./$(cat .keys/taskname)"
+    ./$(cat .keys/taskname)
+}
 
-echo "Successfully added SHORTCUTS to your cs50.dev"
-echo "To use shortcuts, run bellow command at the start of the session"
-echo "source ~/.bashrc"
+# to get help for compilation errors
+ehelp() {
+    echo "help50 make $(cat .keys/taskname)"
+    help50 make $(cat .keys/taskname)
+}
+
+# to check style of C code
+estyle() {
+    echo "style50 $(cat .keys/taskname).c"
+    style50 $(cat .keys/taskname).c
+}
+
+# to debug C program
+edebug() {
+    echo "debug50 $(cat .keys/taskname)"
+    debug50 $(cat .keys/taskname)
+}
+
+# to check correctness
+echeck() {
+    echo "check50 enhance42/clang/2024/$(cat .keys/slugsufix)"
+    check50 enhance42/clang/2024/$(cat .keys/slugsufix)
+}
+
+# to submit code
+esubmit() {
+    echo "submit50 enhance42/clang/2024/$(cat .keys/slugsufix)"
+    submit50 enhance42/clang/2024/$(cat .keys/slugsufix)
+}
+
