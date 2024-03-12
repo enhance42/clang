@@ -1,5 +1,0 @@
----
-layout: redirect
----
-
-<meta http-equiv="refresh" content="0; url=/2024/index.html">
