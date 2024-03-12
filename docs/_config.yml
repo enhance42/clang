@@ -1,2 +1,1 @@
-include:
-  - 2024/.scuts
+exclude: ["**.scuts"]  # This line tells Jekyll to include all .scuts files
