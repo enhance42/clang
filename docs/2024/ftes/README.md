@@ -1,11 +1,11 @@
-FAQs
-=====
+First Time Errors
+=================
 
 Common errros What to Do
 ------------------------
 
 ### My shortcuts are not working.
-Repeat the [steps in shortcuts](shortcuts.md).
+Repeat the [steps in shortcuts](../shortcuts/).
 
 
 ### File not found error is shown.

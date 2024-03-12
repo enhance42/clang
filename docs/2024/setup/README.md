@@ -11,4 +11,4 @@ What to Do
 
 
 Now that the dev machine is ready, let's make it easy to work on mobile.  
-* Let's [Add Shortcuts](shortcuts.md).
+* Let's [Add Shortcuts](../shortcuts/).
