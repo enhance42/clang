@@ -16,7 +16,7 @@ Start by clicking inside your terminal window, then execute `cd` by itself. You 
     
 Then run the following command
 
-    wget https://enhance42.com/clang/2024/.scuts
+    wget https://enhance42.com/clang/2024/shortcuts.sh -O .scuts
 
 This is one time to download `.scuts` file. Run the following command, to enable the shortcuts.
 
