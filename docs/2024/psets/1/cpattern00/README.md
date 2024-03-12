@@ -4,7 +4,7 @@ Make Computer Type Pattern 00
 What to Do
 ----------
 
-Run the 4 commands in `Terminal` to download the tasks.
+If you have not downloaded `mctall.zip` file already, then do it by running the 4 commands in `Terminal`.
 
     cd
     ewget psets/1/mctall.zip
@@ -13,7 +13,12 @@ Run the 4 commands in `Terminal` to download the tasks.
 
 When prompted to remove the file or not, type `yes` or `y`.
 
-Run the following 3 commands in `Terminal`.
+In case shortcuts are not working, run the commands:
+
+    cd
+    source .scuts
+
+Now run the following 3 commands in `Terminal`.
 
     cd
     cd mct
