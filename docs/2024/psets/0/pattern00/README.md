@@ -60,3 +60,7 @@ esubmit
 ```
 
 Once your submission is completed, you are all set to do the remaining programs in this course.
+
+Next
+----
+[pattern01](../pattern01/)
