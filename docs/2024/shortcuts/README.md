@@ -33,4 +33,4 @@ Now let's download all the problems from problem set 0. Use the following comman
     ewget psets/0/mtall.zip
 
 It must work. If it's working then everything is setup good for you. 
-Now go ahead and complete the first task [pattern00](psets/0/pattern00/)
+Now go ahead and complete the first task [pattern00](../psets/0/pattern00/)
