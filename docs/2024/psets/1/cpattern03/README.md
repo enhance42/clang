@@ -21,7 +21,9 @@ This `cpattern03` folder contains the following files
 ```
 pattern03.c
 telugu.h
+expected_output.txt
 ```
+The `pattern03.c` contains the C code and when you compile and run this C program you need to get the output mentioned in `expected_output.txt`.
 
 ### #2: C program
 The file `pattern03.c` contains a `Telugu C program` which types number `42`.
