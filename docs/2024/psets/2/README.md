@@ -8,7 +8,7 @@ What to Do
 If you have not downloaded `cncall.zip` file already, then do it by running the 4 commands in `Terminal`.
 
     cd
-    ewget psets/1/cncall.zip
+    ewget psets/2/cncall.zip
     unzip cncall.zip
     rm cncall.zip
 
