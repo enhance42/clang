@@ -48,7 +48,7 @@ The file `pattern02.c` contains a `Telugu C program`.
 ```c
 #include "telugu.h"
 
-gaadidhaguddu matrixkottu();
+gaadidhaguddu typematrix();
 
 sankya aarambham(gaadidhaguddu)
 {
@@ -62,7 +62,7 @@ sankya aarambham(gaadidhaguddu)
 }
 
 // define the new command
-// matrixkottu() bellow
+// typematrix() bellow
 ```
 
 ### #4: Creating the new command
@@ -70,13 +70,13 @@ In order to create new command we need to `declare` and `define` the command.
 
 #### Declare
 ```c
-gaadidhaguddu matrixkottu();
+gaadidhaguddu typematrix();
 ```
 
 #### Define
 Write the definition.
 ```c
-gaadidhaguddu matrixkottu()
+gaadidhaguddu typematrix()
 {
 
 }

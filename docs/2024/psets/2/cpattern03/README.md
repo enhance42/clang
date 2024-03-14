@@ -55,7 +55,7 @@ The file `pattern01.c` contains a `Telugu C program`.
 #include "telugu.h"
 
 gaadidhaguddu mudusarlu6kottu();
-gaadidhaguddu matrix6kottu();
+gaadidhaguddu typematrix();
 
 sankya aarambham(gaadidhaguddu)
 {
@@ -75,7 +75,7 @@ gaadidhaguddu mudusarlu6kottu()
 }
 
 // write the sequence of commands
-gaadidhaguddu matrix6kottu()
+gaadidhaguddu typematrix()
 {
 
 }
@@ -88,7 +88,7 @@ In order to create new command we need to `declare` and `define` the command.
 #### Declare
 ```c
 gaadidhaguddu mudusarlu6kottu();
-gaadidhaguddu matrix6kottu();
+gaadidhaguddu typematrix();
 ```
 
 #### Define
@@ -101,7 +101,7 @@ gaadidhaguddu mudusarlu6kottu()
 }
 
 // write the sequence of commands
-gaadidhaguddu matrix6kottu()
+gaadidhaguddu typematrix()
 {
 
 }
@@ -111,7 +111,7 @@ gaadidhaguddu matrix6kottu()
 In order to use the new command you can write the command any number of times
 ```c
 mudusarlu6kottu();
-matrix6kottu();
+typematrix();
 ```
 
 ### #5: How to handle error?

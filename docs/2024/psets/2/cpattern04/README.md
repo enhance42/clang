@@ -61,8 +61,8 @@ The file `pattern04.c` contains a `Telugu C program`.
 
 // declartions of new commands
 gaadidhaguddu fivedotskottu();
-gaadidhaguddu firstmatrixkottu();
-gaadidhaguddu secondmatrixkottu();
+gaadidhaguddu typefirstmatrix();
+gaadidhaguddu typesecondmatrix();
 
 sankya aarambham(gaadidhaguddu)
 {
@@ -80,12 +80,12 @@ gaadidhaguddu fivedotskottu()
 
 }
 
-gaadidhaguddu firstmatrixkottu()
+gaadidhaguddu typefirstmatrix()
 {
 
 }
 
-gaadidhaguddu secondmatrixkottu()
+gaadidhaguddu typesecondmatrix()
 {
 
 }
@@ -97,8 +97,8 @@ In order to create new command we need to `declare` and `define` the command.
 #### Declare
 ```c
 gaadidhaguddu fivedotskottu();
-gaadidhaguddu firstmatrixkottu();
-gaadidhaguddu secondmatrixkottu();
+gaadidhaguddu typefirstmatrix();
+gaadidhaguddu typesecondmatrix();
 ```
 
 #### Define
@@ -109,12 +109,12 @@ gaadidhaguddu fivedotskottu()
 
 }
 
-gaadidhaguddu firstmatrixkottu()
+gaadidhaguddu typefirstmatrix()
 {
 
 }
 
-gaadidhaguddu secondmatrixkottu()
+gaadidhaguddu typesecondmatrix()
 {
 
 }
@@ -124,8 +124,8 @@ gaadidhaguddu secondmatrixkottu()
 In order to use the new command you can write the command any number of times
 ```c
 fivedotskottu();
-firstmatrixkottu();
-secondmatrixkottu();
+typefirstmatrix();
+typesecondmatrix();
 ```
 
 ### #5: How to handle error?
