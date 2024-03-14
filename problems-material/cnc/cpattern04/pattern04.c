@@ -2,8 +2,8 @@
 
 // declartions of new commands
 gaadidhaguddu fivedotskottu();
-gaadidhaguddu firstmatrixkottu();
-gaadidhaguddu secondmatrixkottu();
+gaadidhaguddu typefirstmatrix();
+gaadidhaguddu typesecondmatrix();
 
 sankya aarambham(gaadidhaguddu)
 {
@@ -21,12 +21,12 @@ gaadidhaguddu fivedotskottu()
 
 }
 
-gaadidhaguddu firstmatrixkottu()
+gaadidhaguddu typefirstmatrix()
 {
 
 }
 
-gaadidhaguddu secondmatrixkottu()
+gaadidhaguddu typesecondmatrix()
 {
 
 }

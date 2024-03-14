@@ -1,7 +1,7 @@
 #include "telugu.h"
 
 gaadidhaguddu mudusarlu6kottu();
-gaadidhaguddu matrix6kottu();
+gaadidhaguddu typematrix();
 
 sankya aarambham(gaadidhaguddu)
 {
@@ -21,7 +21,7 @@ gaadidhaguddu mudusarlu6kottu()
 }
 
 // write the sequence of commands
-gaadidhaguddu matrix6kottu()
+gaadidhaguddu typematrix()
 {
 
 }

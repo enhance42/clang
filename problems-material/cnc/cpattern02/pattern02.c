@@ -1,6 +1,6 @@
 #include "telugu.h"
 
-gaadidhaguddu matrixkottu();
+gaadidhaguddu typematrix();
 
 sankya aarambham(gaadidhaguddu)
 {
@@ -14,4 +14,4 @@ sankya aarambham(gaadidhaguddu)
 }
 
 // define the new command
-// matrixkottu() bellow
+// typematrix() bellow
