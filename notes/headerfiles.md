@@ -1,7 +1,7 @@
 How to define include guards based on the file name?
 
 In C/C++, the standard way to define include guards based on the file name is to use the file name in uppercase, replace any non-alphanumeric characters with underscores, and add a prefix and suffix of two underscores. For the file `telugu.h`, the include guards would be defined as follows:
-```C
+```c
 #ifndef __TELEGU_H__
 #define __TELEGU_H__
 
