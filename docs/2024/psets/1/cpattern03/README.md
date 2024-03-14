@@ -27,7 +27,7 @@ The `pattern03.c` contains the C code and when you compile and run this C progra
 
 ### #2: C program
 The file `pattern03.c` contains a `Telugu C program` which types number `42`.
-```C
+```c
 #include "telugu.h"
 
 sankya aarambham(gaadidhaguddu)
@@ -68,7 +68,7 @@ erun
 
 ### #4: Commands understood by the computer.
 Following commands can be given to the computer, anynumber of times
-```C
+```c
 numberkottu(42);
 enterkottu();
 spacekottu();
