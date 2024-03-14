@@ -33,4 +33,11 @@ By March 17th 2024, 10pm.
 
 Advice
 ------
-*   Watch the online class recording, to get a better understanding.
+How to create new commands?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cwU2oiOhsfs?si=7pPujizds4Zo4SAN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+How does the program run? How to see the program in execution? Cotrol-flow of a program.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lWdCuZ3wIDg?si=e9m6vL0HDYSfI19F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
