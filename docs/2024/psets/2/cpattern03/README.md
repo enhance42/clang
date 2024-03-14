@@ -1,17 +1,17 @@
-Make Computer Type Pattern 03
-=============================
+Create New Commands | Pattern 03
+================================
 
 What to Do
 ----------
 Run the following 3 commands in `Terminal`.
 
     cd
-    cd mct
+    cd cnc
     cd cpattern03
 
 Your prompt must look like this.
 
-    mct/cpattern03/ $
+    cnc/cpattern03/ $
 
 Otherwise re-run the 3 commands above.
 
@@ -127,7 +127,7 @@ ehelp
 ### #6: Check correctness
 Once you have made the necessary changes to the code and got the expected ouput. Check the correctness, by running `check50` command in the `Terminal` as follows.  
 ```bash
-check50 enhance42/clang/2024/mct/pattern03
+check50 enhance42/clang/2024/cnc/pattern03
 ```
 On Mobile run the command in `Terminal`.
 ```
@@ -137,7 +137,7 @@ echeck
 ### #7: Submit your work
 Once the tests pass, run the following `submit50` command in the Terminal `to submit`.
 ```bash
-submit50 enhance42/clang/2024/mct/pattern03
+submit50 enhance42/clang/2024/cnc/pattern03
 ```
 On Mobile run the command in `Terminal`.
 ```

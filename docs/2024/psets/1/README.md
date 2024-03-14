@@ -1,7 +1,6 @@
-Problem Set 1
-=============
+Problem Set 1: Make Computer Type
+=================================
 
-Make Computer Type.  
 Give a sequence of commands that the computer understands and make the computer type the needed patterns.  
 The goal is to `compile` and `run` C programs.  
 
