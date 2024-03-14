@@ -1,5 +1,5 @@
-Problem Set 1: Create New Commands
-================================== 
+Problem Set 2 | Create New Commands
+=================================== 
 The goal is to `create new commands` and `use the new commands` in C programs.  
 
 What to Do

@@ -1,7 +1,7 @@
-Problem Set 0
-=============
+Problem Set 0 | Manual typing
+=============================
 
-Manual typing. The goal is to get the end to end process introduction where you can `verify-correctness` and `submit-your-work`.
+The goal is to get the end to end process introduction where you can `verify-correctness` and `submit-your-work`.
 
 *Principle*: Introducing `only-one-unknown` at a time.
 
