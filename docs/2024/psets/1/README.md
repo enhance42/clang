@@ -7,9 +7,10 @@ The goal is to `compile` and `run` C programs.
 What to Do
 ----------
 
-Run the 4 commands in `Terminal` to download the tasks.
+Run the 5 commands in `Terminal` to download the tasks.
 
     cd
+    source .scuts
     ewget psets/1/mctall.zip
     unzip mctall.zip
     rm mctall.zip

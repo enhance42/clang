@@ -4,9 +4,10 @@ Make Computer Type Pattern 00
 What to Do
 ----------
 
-If you have not downloaded `mctall.zip` file already, then do it by running the 4 commands in `Terminal`.
+If you have not downloaded `mctall.zip` file already, then do it by running the 5 commands in `Terminal`.
 
     cd
+    source .scuts
     ewget psets/1/mctall.zip
     unzip mctall.zip
     rm mctall.zip

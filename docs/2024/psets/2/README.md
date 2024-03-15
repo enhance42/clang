@@ -5,9 +5,10 @@ The goal is to `create new commands` and `use the new commands` in C programs.
 What to Do
 ----------
 
-If you have not downloaded `cncall.zip` file already, then do it by running the 4 commands in `Terminal`.
+If you have not downloaded `cncall.zip` file already, then do it by running the 5 commands in `Terminal`.
 
     cd
+    source .scuts
     ewget psets/2/cncall.zip
     unzip cncall.zip
     rm cncall.zip
