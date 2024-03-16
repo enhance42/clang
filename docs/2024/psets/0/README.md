@@ -8,15 +8,24 @@ The goal is to get the end to end process introduction where you can `verify-cor
 What to Do
 ----------
 
-1.  Log into [submit.cs50.io](https://submit.cs50.io) using your GitHub account and click **Authorize cs50**, then close the tab.
-2.  Log into [cs50.dev](https://cs50.dev/) using your GitHub account and follow the on-screen instructions to set up your very own “codespace.”
-3.  Once your codespace has loaded, close any **Welcome** tabs that might have opened by default.
-4.  Run `update50` in your codespace’s terminal window to ensure that your codespace is up-to-date and, if prompted, click **Rebuild now**.
-5.  Now the cloud dev machine is ready, [Add Shortcuts](../../shortcuts/).
-6.  Work on [Pattern00](pattern00/).
-7.  Work on [Pattern01](pattern01/).
-8.  Work on [Pattern02](pattern02/).
-9.  Work on [Pattern03](pattern03/).
+### Download problem set#0
+Use the command to download, unzip and rm the downloaded zip file.
+```bash
+cd
+source .scuts
+ewget psets/0/mtall.zip
+unzip mtall.zip
+rm mtall.zip
+```
+When it prompts like the following type `yes` or `y` and enter.
+
+    rm: remove regular empty file 'mtall.zip'?
+
+Once downloading is done:
+1.  Work on [Pattern00](pattern00/).
+2.  Work on [Pattern01](pattern01/).
+3.  Work on [Pattern02](pattern02/).
+4.  Work on [Pattern03](pattern03/).
 
 When to Do It
 -------------

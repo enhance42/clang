@@ -1,16 +1,10 @@
+
+
 Type Pattern 00
 ===============
 
 What to Do
 ----------
-Now that setup is complete and you have downloaded `mtall.zip` file. Now let's `unzip` the file using the following command and after successfully completing the `unzip`, delete the file using the `rm` command.
-
-    unzip mtall.zip
-    rm mtall.zip
-
-When it prompts like the following type `yes` or `y` and enter.
-
-    rm: remove regular empty file 'mtall.zip'?
 
 Change the directory to `pattern00` using the following 2 command.
 
