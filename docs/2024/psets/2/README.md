@@ -15,11 +15,6 @@ If you have not downloaded `cncall.zip` file already, then do it by running the 
 
 When prompted to remove the file or not, type `yes` or `y`.
 
-In case shortcuts are not working, run the commands:
-
-    cd
-    source .scuts
-
 Now  
 1.  Submit [cpattern00](cpattern00/).
 2.  Submit [cpattern01](cpattern01/).
