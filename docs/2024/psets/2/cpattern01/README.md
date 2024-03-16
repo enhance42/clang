@@ -94,7 +94,7 @@ If you see errors, use the following command to get understandable messages.
 ```
 help50 make pattern01
 ```
-On Mobile run the command in `Terminal`.
+Or run the command in `Terminal`.
 ```
 ehelp
 ```
@@ -104,7 +104,7 @@ Once you have made the necessary changes to the code and got the expected ouput.
 ```bash
 check50 enhance42/clang/2024/cnc/pattern01
 ```
-On Mobile run the command in `Terminal`.
+Or run the command in `Terminal`.
 ```
 echeck
 ```
@@ -114,7 +114,7 @@ Once the tests pass, run the following `submit50` command in the Terminal `to su
 ```bash
 submit50 enhance42/clang/2024/cnc/pattern01
 ```
-On Mobile run the command in `Terminal`.
+Or run the command in `Terminal`.
 ```
 esubmit
 ```

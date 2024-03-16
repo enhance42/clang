@@ -60,7 +60,7 @@ To compile c program run the `make pattern00` command in `Terminal`.
 ```
 make pattern00
 ```
-On Mobile run the command in `Terminal`.
+Or run the command in `Terminal`.
 ```
 emake
 ```
@@ -77,7 +77,7 @@ You must see the following output:
 
 ```
 
-On Mobile run the command in `Terminal`.
+Or run the command in `Terminal`.
 ```
 erun
 ```
@@ -111,7 +111,7 @@ So following 2 commands must be run after every modification, to see the output.
 make pattern00
 ./pattern00
 ```
-On Mobile run the command in `Terminal`.
+Or run the command in `Terminal`.
 ```
 emake
 erun
@@ -125,27 +125,19 @@ If you see errors, use the following command to get understandable messages.
 ```
 help50 make pattern00
 ```
-On Mobile run the command in `Terminal`.
+Or run the command in `Terminal`.
 ```
 ehelp
 ```
 
 ### #8: Check correctness
-Once you have made the necessary changes to the code and got the expected ouput. Check the correctness, by running `check50` command in the `Terminal` as follows.  
-```bash
-check50 enhance42/clang/2024/mct/pattern00
-```
-On Mobile run the command in `Terminal`.
+Once you have made the necessary changes to the code and got the expected ouput. Check the correctness, by running the command in `Terminal`.
 ```
 echeck
 ```
 
 ### #9: Submit your work
-Once the tests pass, run the following `submit50` command in the Terminal `to submit`.
-```bash
-submit50 enhance42/clang/2024/mct/pattern00
-```
-On Mobile run the command in `Terminal`.
+Once the tests pass, run the command in `Terminal`.
 ```
 esubmit
 ```
