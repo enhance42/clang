@@ -12,14 +12,6 @@ When it prompts like the following type `yes` or `y` and enter.
 
     rm: remove regular empty file 'mtall.zip'?
 
-Now you have the following files.
-
-    mt\
-    ----pattern00
-    ----pattern01
-    ----pattern02
-    ----pattern03
-
 Change the directory to `pattern00` using the following 2 command.
 
     cd mt
@@ -39,22 +31,13 @@ In file `pattern00.txt` type the following pattern.
 ![pattern00](./pattern00.png)  
 
 ### #2: Check correctness
-Once you have completed typing, to check the correctness, run the following `check50 command` in the `Terminal`.  
-```bash
-check50 enhance42/clang/2024/mt/pattern00
-```
-On Mobile run the command in `Terminal`.
+Once you have completed typing, to check the correctness, run the following `command` in the `Terminal`.  
 ```bash
 echeck
 ```
-[TODO] Add error situations, what to do.
 
 ### #3: Submit your work
-Once the tests pass, run the following `submit50 command` in the `Terminal` to `submit`.
-```bash
-submit50 enhance42/clang/2024/mt/pattern00
-```
-On Mobile run the command in `Terminal`.
+Once the tests pass, run the following command in `Terminal`.
 ```bash
 esubmit
 ```
