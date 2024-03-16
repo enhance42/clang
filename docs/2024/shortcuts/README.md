@@ -1,16 +1,20 @@
-Add Shortcuts
+Enable Shortcuts
 =============
 
 What to Do
 ----------
 
-Open [VS Code in Cloud](https://cs50.dev/).
+Open <a href="https://cs50.dev/" target="_blank" rel="noopener noreferrer">https://cs50.dev</a>.  
 
-Start by clicking inside your terminal window, then execute `cd` by itself. You should find that its “prompt” resembles the below.
+## Enable shortcuts
+Start by clicking inside your `Terminal window`, then execute these two commands.
 ```bash
 cd
 source .scuts
 ```
+
+## Note
+`You need to do this everytime time you open cs50.dev`
 
 ## Next
 Now go ahead and [start problem set-0](../psets/0/)

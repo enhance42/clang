@@ -4,16 +4,6 @@ Create New Commands | Pattern 00
 What to Do
 ----------
 
-If you have not downloaded `cncall.zip` file already, then do it by running the 5 commands in `Terminal`.
-
-    cd
-    source .scuts
-    ewget psets/2/cncall.zip
-    unzip cncall.zip
-    rm cncall.zip
-
-When prompted to remove the file or not, type `yes` or `y`.
-
 Now run the following 3 commands in `Terminal`.
 
     cd

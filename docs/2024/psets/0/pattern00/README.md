@@ -6,8 +6,9 @@ Type Pattern 00
 What to Do
 ----------
 
-Change the directory to `pattern00` using the following 2 command.
+Change the directory to `pattern00` using the following 3 command.
 
+    cd
     cd mt
     cd pattern00
 
