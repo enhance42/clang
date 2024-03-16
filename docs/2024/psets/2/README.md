@@ -16,11 +16,11 @@ If you have not downloaded `cncall.zip` file already, then do it by running the 
 When prompted to remove the file or not, type `yes` or `y`.
 
 Now  
-1.  Submit [cpattern00](cpattern00/).
-2.  Submit [cpattern01](cpattern01/).
-3.  Submit [cpattern02](cpattern02/).
-4.  Submit [cpattern03](cpattern03/).
-5.  Submit [cpattern04](cpattern04/).
+1.  Work on [cpattern00](cpattern00/).
+2.  Work on [cpattern01](cpattern01/).
+3.  Work on [cpattern02](cpattern02/).
+4.  Work on [cpattern03](cpattern03/).
+5.  Work on [cpattern04](cpattern04/).
 
 When to Do It
 -------------

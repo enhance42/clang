@@ -13,10 +13,10 @@ What to Do
 3.  Once your codespace has loaded, close any **Welcome** tabs that might have opened by default.
 4.  Run `update50` in your codespace’s terminal window to ensure that your codespace is up-to-date and, if prompted, click **Rebuild now**.
 5.  Now the cloud dev machine is ready, [Add Shortcuts](../../shortcuts/).
-6.  Submit [Pattern00](pattern00/).
-7.  Submit [Pattern01](pattern01/).
-8.  Submit [Pattern02](pattern02/).
-9.  Submit [Pattern03](pattern03/).
+6.  Work on [Pattern00](pattern00/).
+7.  Work on [Pattern01](pattern01/).
+8.  Work on [Pattern02](pattern02/).
+9.  Work on [Pattern03](pattern03/).
 
 When to Do It
 -------------
