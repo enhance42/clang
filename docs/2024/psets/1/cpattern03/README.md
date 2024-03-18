@@ -51,19 +51,14 @@ emake
 
 If you don't see anything after the command, that means it compiled perfectly without any errors.  
 #### Run
-Now to run the program run the `./pattern03` command in `Terminal`.
+Now to run the program run the command in `Terminal`.
 ```
-./pattern03
+erun
 ```
 You must see the following output:
 ```
 42
 
-```
-
-Or run the command in `Terminal`.
-```
-erun
 ```
 
 ### #4: Commands understood by the computer.
@@ -94,11 +89,6 @@ Now add more commands between the flower brackets `{` and `}`. Starting from `Li
 Everytime you modify C file, you need to compile the program before running.  
 So following 2 commands must be run after every modification, to see the output. 
 ```
-make pattern03
-./pattern03
-```
-Or run the command in `Terminal`.
-```
 emake
 erun
 ```
@@ -107,11 +97,7 @@ erun
 It's best to write few command and compile and run to see. Instead of writing lots of code and then compiling and running.
 
 ### #7: How to handle error?
-If you see errors, use the following command to get understandable messages. 
-```
-help50 make pattern03
-```
-Or run the command in `Terminal`.
+If you see errors, use the following command to get understandable messages.
 ```
 ehelp
 ```

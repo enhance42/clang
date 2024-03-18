@@ -41,30 +41,21 @@ sankya aarambham(gaadidhaguddu)
 
 ### #3: Compile C Program and Run
 #### Compile
-To compile c program run the `make pattern00` command in `Terminal`.
-```
-make pattern00
-```
-Or run the command in `Terminal`.
+To compile c program run the command in `Terminal`.
 ```
 emake
 ```
 
 If you don't see anything after the command, that means it compiled perfectly without any errors.  
 #### Run
-Now to run the program run the `./pattern00` command in `Terminal`.
+Now to run the program type the following command in `Terminal`.
 ```
-./pattern00
+erun
 ```
 You must see the following output:
 ```
 42
 
-```
-
-Or run the command in `Terminal`.
-```
-erun
 ```
 
 ### #4: Commands understood by the computer.
@@ -91,12 +82,7 @@ Now add more commands between the flower brackets `{` and `}`. Starting from `Li
 
 ### #6: Need to Compile everytime
 Everytime you modify C file, you need to compile the program before running.  
-So following 2 commands must be run after every modification, to see the output. 
-```
-make pattern00
-./pattern00
-```
-Or run the command in `Terminal`.
+So following 2 commands must be run after every modification, to see the output.
 ```
 emake
 erun
@@ -107,10 +93,6 @@ It's best to write few command and compile and run to see. Instead of writing lo
 
 ### #7: How to handle error?
 If you see errors, use the following command to get understandable messages. 
-```
-help50 make pattern00
-```
-Or run the command in `Terminal`.
 ```
 ehelp
 ```
