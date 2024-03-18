@@ -101,31 +101,19 @@ mudusartlu2kottu();
 ```
 
 ### #5: How to handle error?
-If you see errors, use the following command to get understandable messages. 
-```
-help50 make pattern00
-```
-Or run the command in `Terminal`.
+If you see errors, run the command in `Terminal`.
 ```
 ehelp
 ```
 
 ### #6: Check correctness
-Once you have made the necessary changes to the code and got the expected ouput. Check the correctness, by running `check50` command in the `Terminal` as follows.  
-```bash
-check50 enhance42/clang/2024/cnc/pattern00
-```
-Or run the command in `Terminal`.
+Once you have made the necessary changes to the code and got the expected ouput. Check the correctness, by running the command in `Terminal`.
 ```
 echeck
 ```
 
 ### #7: Submit your work
-Once the tests pass, run the following `submit50` command in the Terminal `to submit`.
-```bash
-submit50 enhance42/clang/2024/cnc/pattern00
-```
-Or run the command in `Terminal`.
+Once the tests pass, run the following command in `Terminal`.
 ```
 esubmit
 ```
