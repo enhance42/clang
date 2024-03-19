@@ -9,7 +9,7 @@ What to Do
 3. Once your codespace has loaded, close any **Welcome** tabs that might have opened by default.
 4. Run these three commands in the `Terminal`. You must see `Enhance42 Setup Completed` message.
 ```bash
-wget https://enhance42.com/clang/2024/shortcuts.sh -O ~/.bash_profile
+wget https://enhance42.com/clang/2024/commands.sh -O ~/.bash_profile
 source ~/.bash_profile
 om
 ```

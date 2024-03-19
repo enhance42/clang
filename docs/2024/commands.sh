@@ -3,17 +3,20 @@
 # Show message that the Enhance42 Setup is DONE.
 e42(){
     clear
-    echo -e "\033[32mCongratulations\033[0m"
-    echo -e "\033[32mEnhance42 Setup Completed\033[0m"
-    echo "-------------------------"
-    echo -e "\033[33mCommands:\033[0m"
-    echo -e "\033[36mecheck\033[0m   To check correctness"
-    echo -e "\033[36medebug\033[0m   To debug your code"
-    echo -e "\033[36mehelp\033[0m    To understand compilation errors"
-    echo -e "\033[36memake\033[0m    To compile your C code"
-    echo -e "\033[36merun\033[0m     To run your code"
-    echo -e "\033[36mesteps\033[0m   To get link to problem description"
-    echo -e "\033[36mesubmit\033[0m  To submit your work"
+    echo -e "\n\033[0m┌────────────────────────────────────────────────────────────┐\033[0m"
+    echo -e "\033[0m│  \033[33mJan 22nd 2024:\033[32m Civilizational Independence Day of Bharat  \033[0m│\033[0m"
+    echo -e "\033[0m├────────────────────────────────────────────────────────────┤\033[0m"
+    echo -e "\033[0m│                      \033[0mCommands\033[0m                              │\033[0m"
+    echo -e "\033[0m├────────────┬───────────────────────────────────────────────┤\033[0m"
+    echo -e "│\033[36m echeck     \033[0m│ To check correctness                          │"
+    echo -e "│\033[36m edebug     \033[0m│ To debug your code                            │"
+    echo -e "│\033[36m ehelp      \033[0m│ To understand compilation errors              │"
+    echo -e "│\033[36m emake      \033[0m│ To compile your C code                        │"
+    echo -e "│\033[36m erun       \033[0m│ To run your code                              │"
+    echo -e "│\033[36m esteps     \033[0m│ To get link to problem description            │"
+    echo -e "│\033[36m esubmit    \033[0m│ To submit your work                           │"
+    echo -e "└────────────┴───────────────────────────────────────────────┘"
+    echo -e "\n\n"
 }
 
 # more aliases, easy to type and remember
