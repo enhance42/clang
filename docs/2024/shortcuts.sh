@@ -1,5 +1,31 @@
 #!/bin/bash
 
+# Show message that the Enhance42 Setup is DONE.
+e42(){
+    clear
+    echo -e "\033[32mCongratulations\033[0m"
+    echo -e "\033[32mEnhance42 Setup Completed\033[0m"
+    echo "-------------------------"
+    echo -e "\033[33mCommands:\033[0m"
+    echo -e "\033[36mecheck\033[0m   To check correctness"
+    echo -e "\033[36medebug\033[0m   To debug your code"
+    echo -e "\033[36mehelp\033[0m    To understand compilation errors"
+    echo -e "\033[36memake\033[0m    To compile your C code"
+    echo -e "\033[36merun\033[0m     To run your code"
+    echo -e "\033[36mesteps\033[0m   To get link to problem description"
+    echo -e "\033[36mesubmit\033[0m  To submit your work"
+}
+
+# more aliases, easy to type and remember
+om() {
+    e42
+}
+
+# fun and easy to remember
+gadidhaguddu() {
+    e42
+}
+
 # Check file existence and print a help message if the file does not exist
 check_file_existence() {
     local file_path="$1"
