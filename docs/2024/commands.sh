@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Show message that the Enhance42 Setup is DONE.
-e42(){
+e42() {
     clear
     echo -e "\n\033[0m┌────────────────────────────────────────────────────────────┐\033[0m"
     echo -e "\033[0m│  \033[33mJan 22nd 2024:\033[32m Civilizational Independence Day of Bharat  \033[0m│\033[0m"
@@ -15,6 +15,7 @@ e42(){
     echo -e "│\033[36m erun       \033[0m│ To run your code                              │"
     echo -e "│\033[36m esteps     \033[0m│ To get link to problem description            │"
     echo -e "│\033[36m esubmit    \033[0m│ To submit your work                           │"
+    echo -e "│\033[36m ewget      \033[0m│ To download a problem set                     │"
     echo -e "└────────────┴───────────────────────────────────────────────┘"
     echo -e "\n\n"
 }
