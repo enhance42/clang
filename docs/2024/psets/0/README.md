@@ -12,7 +12,6 @@ What to Do
 Use the command to download, unzip and rm the downloaded zip file.
 ```bash
 cd
-source .scuts
 ewget psets/0/mtall.zip
 unzip mtall.zip
 rm mtall.zip
