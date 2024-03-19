@@ -7,7 +7,7 @@ What to Do
 1. Log into <a href="https://submit.cs50.io" target="_blank" rel="noopener noreferrer">submit.cs50.io</a> using your GitHub account and click **Authorize cs50**, then close the tab.
 2. Log into <a href="https://cs50.dev/" target="_blank" rel="noopener noreferrer">cs50.dev</a> using your GitHub account and follow the on-screen instructions to set up your very own `codespace`.
 3. Once your codespace has loaded, close any **Welcome** tabs that might have opened by default.
-4. Run these three commands in the `Terminal`. You must see `Enhance42 Setup Completed` message.
+4. Run these three commands in the `Terminal`. You must see `Welcome to Programming Using C` message.
 ```bash
 wget https://enhance42.com/clang/2024/commands.sh -O ~/.bash_profile
 source ~/.bash_profile
