@@ -116,3 +116,5 @@ esteps() {
     local urlpath=$(cat "$file_path")
     echo "Instructions: https://enhance42.com/clang/2024/$urlpath"
 }
+
+echo -e "\033[32mWelcome to Programming Using C\033[0m"
