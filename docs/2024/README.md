@@ -13,6 +13,7 @@
 
 <h2>Demo Code</h2>
 <p><a href="demo-code/2024-03-18/" target="_blank" rel="noopener noreferrer">March 18th 2024</a></p>
+<p><a href="demo-code/2024-03-21/" target="_blank" rel="noopener noreferrer">March 21st 2024</a></p>
 
 <h2>Videos</h2>
 <p><a href="https://youtube.com/playlist?list=PL2JHjjegWZ1ROCsHbAMhRifS5eoGiP9YE&i=ESsdyVmo_uuHcgj1" target="_blank" rel="noopener noreferrer">Check the playlist</a></p>
