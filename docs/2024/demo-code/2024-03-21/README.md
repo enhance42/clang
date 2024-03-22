@@ -11,14 +11,14 @@ cd democode-2024-03-21
 
 To compile and run and debug these are the commands:
 ```bash
-make passorfail.c
+make passorfail
 ./passorfail
 debug50 passorfail
 ```
 
 For second example:
 ```bash
-make baruvu.c
+make baruvu
 ./baruvu
 debug50 baruvu
 ```
