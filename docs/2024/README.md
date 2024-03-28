@@ -16,6 +16,7 @@
 <p><a href="demo-code/2024-03-21/" target="_blank" rel="noopener noreferrer">March 21st 2024: if...else, while</a></p>
 <p><a href="demo-code/2024-03-22/" target="_blank" rel="noopener noreferrer">March 22nd 2024: printf</a></p>
 <p><a href="demo-code/2024-03-27/" target="_blank" rel="noopener noreferrer">March 27th 2024: user defined functions, declare, define, call; while loop; arrays</a></p>
+<p><a href="demo-code/2024-03-28/" target="_blank" rel="noopener noreferrer">March 28th 2024: arrays and while loop, for loop, break, printf and scanf puzzles</a></p>
 
 <h2>Videos</h2>
 <p><a href="https://youtube.com/playlist?list=PL2JHjjegWZ1ROCsHbAMhRifS5eoGiP9YE&i=ESsdyVmo_uuHcgj1" target="_blank" rel="noopener noreferrer">Check the playlist</a></p>
